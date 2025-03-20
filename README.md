@@ -4,7 +4,7 @@ Este projeto é um sistema simples de gerenciamento de uma biblioteca, desenvolv
 
 ## Funcionalidades
 
-- Adição de livros com título e autor.
+- Adição de livros com título e autor. 
 - Registro de funcionários com nome e cargo.
 - Exibição da lista de livros e funcionários cadastrados. 
 - Estrutura de classes para organizar dados de forma eficiente.
