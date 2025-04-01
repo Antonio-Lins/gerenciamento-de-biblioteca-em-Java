@@ -2,7 +2,7 @@
 
 Este projeto é um sistema simples de gerenciamento de uma biblioteca, desenvolvido em Java. O sistema permite a adição de livros e funcionários, além de exibir informações sobre eles.
 
-## Funcionalidades
+## Funcionalidades 
 
 - Adição de livros com título e autor. 
 - Registro de funcionários com nome e cargo.
